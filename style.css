@@ -1,0 +1,53 @@
+/*
+STYLE CSS - PHP Blog
+Maxime DORFFER
+LUDUS ACADEMIE F2A - 2016-17
+*/
+p
+{
+	font-family; verdana, serif;
+	color: blue;
+}
+
+
+
+html 
+{
+	width: 100%;
+	background-color: #191970;
+	font-family: verdana, serif;
+}
+
+header
+{
+	padding-top: 15px;
+	text-align: left;
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 200px 600px 0 0;
+	border-color: #007bff transparent transparent transparent;
+}
+
+body
+{
+	border: 15px solid black;
+	border-radius: 35px;
+	height:100%;
+	
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left:20%;
+	margin-right:20%;
+	
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 50px;
+	padding-bottom: 15px;
+	
+	background-color: rgba(255,255,255,0.8);
+	border-left: 3px solid black;
+	border-right: 3px solid black;
+}	
+
+
